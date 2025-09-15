@@ -1,4 +1,4 @@
-### Translation Anonymizer
+### LangOps platform (anonymization service) - Learning project
 
 Companion service for the Translation API. Detects and masks PII in text before machine translation, and enables reversible deanonymization during reconstruction.
 
